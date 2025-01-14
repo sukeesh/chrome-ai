@@ -1,2 +1,2 @@
-# chrome-ai
+# Chrome AI
 Make Chrome Better Again
