@@ -9,6 +9,11 @@
 
 This open-source Chrome extension enhances your Google Search experience with on-the-fly AI summaries, tooltips, and intelligent content analysis using Ollama's LLaMA model. It processes search results locally, ensuring privacy while providing quick and insightful summaries of web pages without any server dependency or GPT API costs.
 
+# 🚀 Youtube
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=F49O9Vnh5PE"><img src="https://github.com/user-attachments/assets/e3cdd087-367a-4a3c-94d5-65dc5d27e4e3" alt="Youtube video" width="650"/>
+</div>
+
 ## 🚀 **What Does This Extension Do?**
 - Automatically analyzes Google Search results.
 - Displays summaries of linked articles when you hover over them.
