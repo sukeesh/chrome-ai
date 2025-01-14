@@ -23,9 +23,6 @@ This open-source Chrome extension enhances your Google Search experience with on
 4. Click **Load unpacked** and select the folder containing this extension.
 5. The extension will appear in your Chrome toolbar. Pin it for easy access!
 
-## 📸 **Project Mascot**
-![Project Mascot - LLaMA Assistant](https://your-image-link.com)
-
 ## 🎥 **Usage Video**
 [Watch the extension in action!](https://your-video-link.com)
 
