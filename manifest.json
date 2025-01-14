@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Chrome AI",
+    "version": "1.0",
+    "permissions": ["scripting", "activeTab"],
+    "host_permissions": [
+      "<all_urls>"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js", "Readability.js"]
+      }
+    ],
+    "action": {
+      "default_title": "Chrome AI"
+    }
+  }
+  
